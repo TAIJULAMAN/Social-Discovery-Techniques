@@ -8,7 +8,7 @@ This guide helps you enhance how your website appears when shared on social medi
 
 The image below shows how structured data (in JSON-LD format) connects your website content to rich previews in search and social platforms.
 
-![Structured Data Example](./image.png)
+![Structured Data Example](./Screenshot_1.png)
 
 ---
 
