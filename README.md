@@ -1,5 +1,5 @@
 
-# Social Metadata Optimization Guide
+# Social Metadata Optimization
 
 This guide helps you enhance how your website appears when shared on social media using **Schema.org microdata**, **Open Graph Protocol**, and **Twitter Cards**.
 
