@@ -4,6 +4,14 @@ This guide helps you enhance how your website appears when shared on social medi
 
 ---
 
+## 📷 Visual Example of Structured Data
+
+The image below shows how structured data (in JSON-LD format) connects your website content to rich previews in search and social platforms.
+
+![Structured Data Example](./image.png)
+
+---
+
 ## 1. Schema.org Microdata (for Google Search / Google+)
 
 Schema.org microdata provides structured data to help search engines understand your content. It lives directly in the HTML body.
